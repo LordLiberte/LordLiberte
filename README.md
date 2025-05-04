@@ -41,7 +41,7 @@
 
 ### 🌐 Conectemos
 
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/carlos-gonz%C3%A1lez-rubio-b21307185/)) *(agrégame con confianza)*
+- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/carlos-gonz%C3%A1lez-rubio-b21307185/]) *(agrégame con confianza)*
 - 📬 Abierto a colaboraciones, ideas locas o simplemente charlar de tech
 
 ---
