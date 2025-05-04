@@ -10,7 +10,7 @@
 - 🤖 Amante de la **IA** y la **automatización**.
 - 🔍 Me muevo entre datos, sensores y líneas de código.
 - 🎓 Aprendiendo siempre, compartiendo lo que sé.
-- 🌍 Apuntando a construir un futuro más inteligente y conectado.
+- 🌍 Apuntando a construir un futuro más inteligente y conectado.aaad 
 
 ---
 
