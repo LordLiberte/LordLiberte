@@ -19,6 +19,9 @@
 - 🔍 Me muevo entre **datos**, **sensores** y **líneas de código** como pez en el agua.
 - 🚀 Apunto a construir un futuro más inteligente, más eficiente... y con menos trabajo repetitivo para todos.
 
+> Mi inspiración: empresas como [**Figure**](https://www.figure.ai/) que están redefiniendo lo que significa trabajar en conjunto con robots autónomos. Imaginar un mundo donde humanos y humanoides colaboran no es ciencia ficción... ¡es una hoja de ruta!  
+> Y yo quiero estar ahí, escribiendo esa historia.
+
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Robot trabajando">
 </p>
@@ -38,7 +41,7 @@
 
 #### 🔧 Herramientas y Frameworks
 - **Git & GitHub** – sin control de versiones, solo hay caos.
-- Explorando ecosistemas de **Machine Learning** y herramientas de **IA generativa**.
+- Explorando ecosistemas de **Machine Learning**, visión por computadora y **IA generativa**.
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="coding gif">
@@ -57,8 +60,8 @@
 
 ### 🌐 Conectemos
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-gonz%C3%A1lez-rubio-b21307185/) *(agrégame con confianza, no muerdo — los robots tampoco)*
-- 📨 Abierto a colaboraciones, proyectos locos o simplemente charlar sobre tecnología y el futuro.
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-gonz%C3%A1lez-rubio-b21307185/) *(agrégame con confianza, no muerdo — los robots tampoco… por ahora)*
+- 📨 Abierto a colaboraciones, proyectos locos o simplemente charlar sobre tecnología, automatización y el futuro humanoide.
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="let's connect">
@@ -72,5 +75,6 @@
 ---
 
 🔗 [GitHub](https://github.com/LordLiberte) • [LinkedIn](https://www.linkedin.com/in/carlos-gonz%C3%A1lez-rubio-b21307185/)
+
 
 
