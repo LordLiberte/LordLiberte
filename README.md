@@ -32,10 +32,13 @@
 
 ### 📈 Estadísticas GitHub
 
+### 📈 Estadísticas de GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lordliberte&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordliberte&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LordLiberte&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordLiberte&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
