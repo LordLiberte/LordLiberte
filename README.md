@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">👋 ¡Hola mundo! Soy Carlos 👨‍💻</h1>
+<p align="center">
+  <b>Estudiante de Ciencia de Datos e Inteligencia Artificial</b><br>
+  <b>Técnico en Automatización y Robótica Industrial</b>
+</p>
 
-<!--
-**LordLiberte/LordLiberte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ⚡ Sobre mí
+- 🤖 Amante de la **IA** y la **automatización**.
+- 🔍 Me muevo entre datos, sensores y líneas de código.
+- 🎓 Aprendiendo siempre, compartiendo lo que sé.
+- 🌍 Apuntando a construir un futuro más inteligente y conectado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Habilidades técnicas
+
+#### 💻 Lenguajes de Programación
+- **Python** 🐍 – para todo lo que huela a datos.
+- **C** 💾 – para ir al hueso del hardware.
+- **HTML/CSS** 🎨 – porque hasta el robot merece una buena interfaz.
+
+#### 🤖 PLCs y Automatización
+- **Siemens**, **Omron** y **Panasonic** – me llevo bien con las máquinas... y sus protocolos.
+
+#### 🔧 Otras herramientas
+- Git & GitHub – porque sin control de versiones, solo hay caos.
+- Linux terminal enjoyer.
+- Explorando herramientas de IA y frameworks de Machine Learning.
+
+---
+
+### 📈 Estadísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosgithub&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgithub&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+### 🌐 Conectemos
+
+- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/carlos-gonz%C3%A1lez-rubio-b21307185/)) *(agrégame con confianza)*
+- 📬 Abierto a colaboraciones, ideas locas o simplemente charlar de tech
+
+---
+
+> "El futuro pertenece a quienes se atreven a automatizarlo."
+
+---
