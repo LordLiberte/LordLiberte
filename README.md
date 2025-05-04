@@ -6,6 +6,10 @@
   <b>🌐 Explorador del universo digital, un bit a la vez</b>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="IA en acción">
+</p>
+
 ---
 
 ### ⚡ Sobre mí
@@ -14,6 +18,10 @@
 - 🧠 Aprendiz constante, siempre con hambre de conocimiento.
 - 🔍 Me muevo entre **datos**, **sensores** y **líneas de código** como pez en el agua.
 - 🚀 Apunto a construir un futuro más inteligente, más eficiente... y con menos trabajo repetitivo para todos.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Robot trabajando">
+</p>
 
 ---
 
@@ -32,6 +40,10 @@
 - **Git & GitHub** – sin control de versiones, solo hay caos.
 - Explorando ecosistemas de **Machine Learning** y herramientas de **IA generativa**.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="coding gif">
+</p>
+
 ---
 
 ### 📈 Mis estadísticas en GitHub
@@ -48,6 +60,10 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-gonz%C3%A1lez-rubio-b21307185/) *(agrégame con confianza, no muerdo — los robots tampoco)*
 - 📨 Abierto a colaboraciones, proyectos locos o simplemente charlar sobre tecnología y el futuro.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="let's connect">
+</p>
+
 ---
 
 > *"El futuro pertenece a quienes se atreven a automatizarlo."*  
@@ -56,4 +72,5 @@
 ---
 
 🔗 [GitHub](https://github.com/LordLiberte) • [LinkedIn](https://www.linkedin.com/in/carlos-gonz%C3%A1lez-rubio-b21307185/)
+
 
