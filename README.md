@@ -26,7 +26,6 @@
 
 #### 🔧 Otras herramientas
 - Git & GitHub – porque sin control de versiones, solo hay caos.
-- Linux terminal enjoyer.
 - Explorando herramientas de IA y frameworks de Machine Learning.
 
 ---
