@@ -52,7 +52,7 @@
 ### 📈 Mis estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LordLiberte&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LordLiberte&theme=dark&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordLiberte&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
