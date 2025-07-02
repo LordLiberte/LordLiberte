@@ -53,7 +53,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LordLiberte&theme=dark&show_icons=true" alt="GitHub Stats" />
-  <img src="" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordLiberte&layout=compact" alt="Top Languages" />
 </p>
 
 ---
